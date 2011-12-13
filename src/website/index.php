@@ -51,7 +51,7 @@
 					<section>
 						
 						<a href="./forum/" title="Comunitatea dezvoltatorilor de aplicații Android">
-							<img width="248" height="82" src="./img/logo2.gif" title="Android Developer logo" alt="Android Developer logo" />
+							<img width="248" height="82" src="./img/logo2.gif" title="Android Developer logo" alt="Android Developer logo" border="0" />
 						</a>
 						
 						<p>

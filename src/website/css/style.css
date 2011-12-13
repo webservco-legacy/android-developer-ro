@@ -230,15 +230,13 @@ td { vertical-align: top; }
 }
 
 
-#fixed a {
+#fixed p a {
 	color: #C60;
 	text-decoration: none;
-	border-bottom: 2px solid #A4CA39;
+	border-bottom: 2px dotted #A4CA39;
 }
 
-#fixed a:hover {
-	color: #A4CA39;
-	text-decoration: none;
+#fixed p a:hover {
 	border: 0;
 }
 
