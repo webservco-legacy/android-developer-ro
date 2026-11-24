@@ -19,7 +19,8 @@ links to `./forum/` lead nowhere here.
 ## How it was built
 
 From the dump of my SVN repository of 2011, turned into git in 2026 (5 commits; the `git-svn-id` lines name
-the revisions), the dates kept. The last commit before this README sets LF line endings and indents with spaces.
+the revisions), the dates kept. The last commit before this README sets LF line endings and indents with spaces
+(not in `src/website/scripts/lib/helper.js`).
 
 ## Third-party code
 
